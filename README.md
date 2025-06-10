@@ -13,4 +13,4 @@ OR
 
 ## Learnings
 - Get familiar with using APIs
-- Learn to package code into an executable so that the app can be installed on a computer
+- Package python code into an executable so that the app can be installed on a computer
